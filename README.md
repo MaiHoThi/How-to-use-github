@@ -7,8 +7,10 @@
 ###   git add --all => Thêm các file đã tạo
 ###   git push origin -f để đẩy các file lên github
 ###   gitk => để xem tất cả file được update
-###   git restore linkSHA1ID(linke file in gitk)=> để xóa file 
+###   git reset --hash linkSHA1ID(linke file in gitk)=> để xóa file 
 ###   git log => xem tạo commit xong chưa
 ###   git init => chạy github
+###   git restore namefile => để quay lại form trước
+
 ## setup
 ## lien ket
