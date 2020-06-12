@@ -11,6 +11,7 @@
 ###   git log => xem tạo commit xong chưa
 ###   git init => chạy github
 ###   git restore namefile => để quay lại form trước
+###   git pull => Lấy nguôn code từ serve
 
 ## setup
 ## lien ket
